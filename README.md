@@ -10,9 +10,9 @@ My name is Tuan. I am an AI/ML Engineer. I am interested in the following topics
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tuan2201&show_icons=true&theme=dark&cache_seconds=1800)
+![GitHub Stats](https://github-readme-stats-git-master-anuraghazras-projects.vercel.app/api?username=Tuan2201&show_icons=true&theme=dark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tuan2201&layout=compact&theme=dark)
+![Top Languages](https://github-readme-stats-git-master-anuraghazras-projects.vercel.app/api/top-langs/?username=Tuan2201&layout=compact&theme=dark)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Tuan2201&theme=dark)
 
