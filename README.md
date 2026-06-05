@@ -4,9 +4,9 @@ My name is [Tên bạn]. I am a [Chức danh] at [Công ty]. I am interested in 
 
 ## 📫 How to reach me:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)](https://github.com/YOUR_USERNAME)
-[![YouTube](https://img.shields.io/badge/YouTube-red?logo=youtube)](https://youtube.com/YOUR_CHANNEL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)]([https://linkedin.com/in/YOUR_LINKEDIN](https://www.linkedin.com/in/tuan-tran-manh-8b8540389/))
+[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)]([https://github.com/YOUR_USERNAME](https://github.com/Tuan2201))
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white)]([https://facebook.com/YOUR_PROFILE](https://www.facebook.com/tran.manh.tuan.830987/?locale=vi_VN))
 
 ## 📊 GitHub Stats
 
