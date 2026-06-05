@@ -1,4 +1,8 @@
-## Hi there 👋
+WELCOME TO MY PAGE 👋👋👋
+My name is Tuan. I am a IT student. I am interested in the following topics: Deep Learning for Computer Vision, LLM, RAG, AI agent
+
+📫 How to reach me:
+https://www.facebook.com/vietnh1009?locale=vi_VN
 
 <!--
 **Tuan2201/Tuan2201** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
