@@ -4,9 +4,9 @@ My name is Tuan. I am an AI/ML Engineer. I am interested in the following topics
 
 ## 📫 How to reach me:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/[YOUR_LINKEDIN](https://www.linkedin.com/in/tuan-tran-manh-8b8540389/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tuan-tran-manh-8b8540389/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/Tuan2201)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white)](https://facebook.com/[YOUR_FACEBOOK](https://www.facebook.com/tran.manh.tuan.830987/?locale=vi_VN))
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white)](https://www.facebook.com/tran.manh.tuan.830987/)
 
 ## 📊 GitHub Stats
 
@@ -24,18 +24,3 @@ My name is Tuan. I am an AI/ML Engineer. I am interested in the following topics
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
-
-<!--
-**Tuan2201/Tuan2201** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
