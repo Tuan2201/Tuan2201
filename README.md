@@ -10,9 +10,7 @@ My name is Tuan. I am an AI/ML Engineer. I am interested in the following topics
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://readme-stats-xi-three.vercel.app/api?username=Tuan2201&show_icons=true&theme=dark)
-
-![Top Languages](https://readme-stats-xi-three.vercel.app/api/top-langs/?username=Tuan2201&layout=compact&theme=dark)
+![Profile Views](https://komarev.com/ghpvc/?username=Tuan2201&color=blue&style=flat)
 ![GitHub Streak](https://streak-stats.demolab.com?user=Tuan2201&theme=dark)
 
 ## 🛠️ Technologies & Tools
